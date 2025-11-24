@@ -23,4 +23,9 @@
       <UniqueIdentifier>{765c46ed-9e07-4b16-9823-53a851cfa92a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы\src_dev3</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
